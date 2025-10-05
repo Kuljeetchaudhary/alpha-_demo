@@ -1,2 +1,2 @@
-# alpha-_demo
-This is the Demo for Git &amp; Github class
+# alpha_demo
+This is the Demo for Git &amp; Github class.
